@@ -1,17 +1,17 @@
-package cn.com.unary.operation.procOperUtil.msgManage;
+package cn.com.xxx.operation.procOperUtil.msgManage;
 
 import org.dom4j.Document;
 import org.dom4j.Element;
 
-import cn.com.unary.common.msg.MessageConstructor;
-import cn.com.unary.common.msg.ResponseNode;
-import cn.com.unary.common.msg.XMLNode;
-import cn.com.unary.common.msg.XmlMessageListener;
-import cn.com.unary.mdp.MdpUtil;
-import cn.com.unary.mdp.model.Message;
-import cn.com.unary.operation.procOperTool.pojo.ProcOper;
-import cn.com.unary.operation.procOperTool.stringInfo.StringInfo;
-import cn.com.unary.operation.procOperUtil.funcManage.FuncManage;
+import cn.com.xxx.common.msg.MessageConstructor;
+import cn.com.xxx.common.msg.ResponseNode;
+import cn.com.xxx.common.msg.XMLNode;
+import cn.com.xxx.common.msg.XmlMessageListener;
+import cn.com.xxx.mdp.MdpUtil;
+import cn.com.xxx.mdp.model.Message;
+import cn.com.xxx.operation.procOperTool.pojo.ProcOper;
+import cn.com.xxx.operation.procOperTool.stringInfo.StringInfo;
+import cn.com.xxx.operation.procOperUtil.funcManage.FuncManage;
 
 import com.una.common.log.DebugLogOper;
 

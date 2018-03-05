@@ -1,4 +1,4 @@
-package cn.com.unary.operation.procOperUtil.funcManage;
+package cn.com.xxx.operation.procOperUtil.funcManage;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -9,13 +9,13 @@ import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
-import cn.com.unary.common.msg.ResponseNode;
-import cn.com.unary.common.msg.XMLNode;
-import cn.com.unary.operation.procOperTool.api.ProcOperTool;
-import cn.com.unary.operation.procOperTool.factory.ProcOperToolFactory;
-import cn.com.unary.operation.procOperTool.pojo.ProcOper;
-import cn.com.unary.operation.procOperTool.pojo.ProcQuery;
-import cn.com.unary.operation.procOperTool.stringInfo.StringInfo;
+import cn.com.xxx.common.msg.ResponseNode;
+import cn.com.xxx.common.msg.XMLNode;
+import cn.com.xxx.operation.procOperTool.api.ProcOperTool;
+import cn.com.xxx.operation.procOperTool.factory.ProcOperToolFactory;
+import cn.com.xxx.operation.procOperTool.pojo.ProcOper;
+import cn.com.xxx.operation.procOperTool.pojo.ProcQuery;
+import cn.com.xxx.operation.procOperTool.stringInfo.StringInfo;
 
 import com.una.common.log.DebugLogOper;
 
